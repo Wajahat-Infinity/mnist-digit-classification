@@ -1,0 +1,13 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore IDE configuration files (for example, VS Code)
+.vscode/
+
+# Ignore the requirements.txt if generated from the virtual environment
+requirements.txt
